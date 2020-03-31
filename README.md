@@ -11,3 +11,6 @@ Sample website with plenty of files for demos
 
 ##gaurav Singh
 my name si
+
+###copyright
+2020 git.training
