@@ -8,7 +8,7 @@ Hi my name is Gaurav Singh
 Sample website with plenty of files for demos
 
 ## How to contribute
-
+Please fork thsi repositry and issiue for review
 ##gaurav Singh
 my name si
 
